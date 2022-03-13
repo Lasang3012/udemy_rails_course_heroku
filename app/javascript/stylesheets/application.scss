@@ -1,3 +1,9 @@
+@import "~bootstrap/scss/bootstrap";
+@import "bootstrap";
+
+@import "selectize/dist/css/selectize";
+@import "selectize/dist/css/selectize.default";
+
 //shadow for text on landing page
 .text-shadow {
   text-shadow: 1px 1px black;
